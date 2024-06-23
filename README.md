@@ -3,6 +3,7 @@
 Welcome to StockClock!
 
 VERSION: 0.7
+
 AUTHOR: Spangle Craftworks LLC
 
 ![Alt text](StockClock_Preview.PNG?raw=true "StockClock")
